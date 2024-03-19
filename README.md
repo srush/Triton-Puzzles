@@ -1,5 +1,9 @@
 # Triton-Puzzles
 
+w/ Tejas Ramesh and Karen Zhou based on [Triton-Viz](deep-Learning-Profiling-Tools/triton-viz)
+
+
+
 Programming for accelerators such as GPUs is critical for modern AI systems.
 This often means programming directly in proprietary low-level languages such as CUDA. [Triton](https://github.com/openai/triton/) is an alternative open-source language that allows you to code at a higher-level and compile to accelerators like GPU.
 
