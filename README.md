@@ -2,6 +2,7 @@
 
 w/ Tejas Ramesh and [Karen Zhou](https://www.jokeren.tech/) based on [Triton-Viz](deep-Learning-Profiling-Tools/triton-viz)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/srush/Triton-Puzzles/blob/main/Triton-Puzzles.ipynb)
 
 
 Programming for accelerators such as GPUs is critical for modern AI systems.
@@ -12,7 +13,6 @@ Coding for Triton is very similar to Numpy and PyTorch in both syntax and semant
 This set is puzzles is meant to teach you how to use Triton from first principles in an interactive fashion. You will start with trivial examples and build your way up to real algorithms like Flash Attention and Quantized neural networks. These puzzles **do not** need to run on GPU since they use a Triton interpreter.
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/srush/Triton-Puzzles/blob/main/Triton-Puzzles.ipynb)
 
 ![image](https://github.com/srush/Triton-Puzzles/assets/35882/3e18a47d-1311-43d0-a025-ed1f593f919e)
 
