@@ -1,6 +1,6 @@
 # Triton-Puzzles
 
-w/ Tejas Ramesh and Karen Zhou based on [Triton-Viz](deep-Learning-Profiling-Tools/triton-viz)
+w/ Tejas Ramesh and [Karen Zhou](https://www.jokeren.tech/) based on [Triton-Viz](deep-Learning-Profiling-Tools/triton-viz)
 
 
 
