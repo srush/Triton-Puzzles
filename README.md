@@ -10,6 +10,9 @@ This set is puzzles is meant to teach you how to use Triton from first principle
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/srush/Triton-Puzzles/blob/main/Triton-Puzzles.ipynb)
 
+![image](https://github.com/srush/Triton-Puzzles/assets/35882/3e18a47d-1311-43d0-a025-ed1f593f919e)
+
+
 
 If you are into this kind of thing, this is 7th in a series of these puzzles.
 
